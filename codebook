@@ -1,1 +1,8 @@
+##Labels for: Activity
 
+WALKING: subject walking during test
+WALKING_UPSTAIRS: subject walking up a staircase during test
+WALKING_DOWNSTAIRS: subject was walking down a staircase during test
+SITTING : subject was sitting during test
+STANDING: subject was standing during test
+LAYING: subject was laying down during test
